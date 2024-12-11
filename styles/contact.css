@@ -6,6 +6,16 @@
     font-size: 1.5em;
 }
 
+.contact-info img {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+}
+
+.contact {
+    width: 50%;
+}
+
 form.contact-form {
     max-width: 600px;
     margin: 20px 20px;
